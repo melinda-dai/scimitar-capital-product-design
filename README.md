@@ -5,20 +5,7 @@ This repository contains design artifacts from a branding and merchandise projec
 
 ## Repository Contents Files Included (and what each one shows)
 
-### 1) `scimitar logo.pdf` — Concept directions + rationale (4 pages)
-This PDF captures the early concept phase, where I explored multiple logo directions and documented the reasoning behind each option.
-
-**What’s inside:**
-- **Iconography + values** exploration (blade/scimitar form, color palette)
-- **Direction 1: Runescape reference** — simplified scimitar mark and lockups, with notes on what it communicates and potential concerns
-- **Direction 2: Motion / illustrative** — more dynamic scimitar imagery, with notes on visual energy vs. readability/seriousness
-- **Direction 3: Clean and corporate** — minimal, more traditional marks and lockups, including notes on brand fit and distinctiveness
-
-**Purpose:** show design thinking, tradeoffs, and how each direction was evaluated.
-
----
-
-### 2) `logo colorways.jpeg` — Logo iteration sheet (variants + lockups)
+### 1) `logo colorways.jpeg` — Logo iteration sheet (variants + lockups)
 This image is a consolidated overview of logo variations created during refinement.
 
 **What’s shown here:**
@@ -28,6 +15,19 @@ This image is a consolidated overview of logo variations created during refineme
 - simplified icon-only versions and exploration of mark readability
 
 **Purpose:** show iteration breadth and how the final direction was refined through variants.
+
+---
+
+### 2) `scimitar logo.pdf` — Concept directions + rationale (4 pages)
+This PDF captures the early concept phase, where I explored multiple logo directions and documented the reasoning behind each option.
+
+**What’s inside:**
+- **Iconography + values** exploration (blade/scimitar form, color palette)
+- **Direction 1: Runescape reference** — simplified scimitar mark and lockups, with notes on what it communicates and potential concerns
+- **Direction 2: Motion / illustrative** — more dynamic scimitar imagery, with notes on visual energy vs. readability/seriousness
+- **Direction 3: Clean and corporate** — minimal, more traditional marks and lockups, including notes on brand fit and distinctiveness
+
+**Purpose:** show design thinking, tradeoffs, and how each direction was evaluated.
 
 ---
 
