@@ -5,7 +5,7 @@ This repository contains design artifacts from a branding and merchandise projec
 
 ## Repository Contents Files Included (and what each one shows)
 
-### 1) `logo colorways.jpeg` — Logo iteration sheet (variants + lockups)
+## 1) `logo colorways.jpeg` — Logo iteration sheet (variants + lockups)
 This image is a consolidated overview of logo variations created during refinement.
 
 **What’s shown here:**
