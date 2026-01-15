@@ -1,5 +1,6 @@
 # scimitar-capital-product-design
-This repository contains design artifacts from a branding and merchandise project for Scimitar Capital, a startup crypto investment company. The materials include logo variations, visual system explorations, embroidery tests, and final production samples, documenting the process of translating a digital brand identity into physical merchandise.
+This repository contains design artifacts from a branding and merchandise project for Scimitar Capital, a startup crypto investment company. 
+The materials include logo variations, visual system explorations, embroidery tests, and final production samples, documenting the process of translating a digital brand identity into physical merchandise.
 
 ---
 
